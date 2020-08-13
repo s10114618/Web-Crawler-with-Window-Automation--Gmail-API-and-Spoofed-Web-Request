@@ -27,3 +27,4 @@ Spawn Anaconda Prompt using Bat file
 ```
 
 ### How to setup Automation Task Scheduler on Windows 10
+![](images/Task Scheduler Mainpage.JPG)
