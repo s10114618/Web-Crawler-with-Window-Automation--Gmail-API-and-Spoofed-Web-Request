@@ -28,13 +28,20 @@ Spawn Anaconda Prompt using Bat file
 
 ### How to setup Automation Task Scheduler on Windows 10
 
-
+Open Task Scheduler Main page and double click within the red box
 ![](images/Task%20Scheduler%20Mainpage.JPG)
 
+Follow the configuration
+![](images/Task%20Scheduler%20Properties.JPG)
+
+Set the scheduler interval
 ![](images/Task%20Scheduler%20Trigger.JPG)
 
+Set the scheduler interval
 ![](images/Task%20Scheduler%20Trigger2.JPG)
 
+Point the program script to the BAT file
 ![](images/Task%20Scheduler%20Action.JPG)
 
-![](images/Task%20Scheduler%20Test%20run.JPG)
+Test the program. If the script is not running, troubleshoot with the error code (0x00,0x01 and etc)
+![](images/Task%20Scheduler%20Test%20run.jpg)
