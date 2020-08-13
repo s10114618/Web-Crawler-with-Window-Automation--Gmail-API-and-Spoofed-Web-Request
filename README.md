@@ -51,3 +51,6 @@ Point the program script to the BAT file
 Test the program. If the script is not running, troubleshoot with the error code (0x00,0x01 and etc)
 
 ![](images/Task%20Scheduler%20Test%20run.jpg)
+
+
+Thanks for reading!
