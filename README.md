@@ -53,4 +53,11 @@ Test the program. If the script is not running, troubleshoot with the error code
 ![](images/Task%20Scheduler%20Test%20run.jpg)
 
 
+### Guide to set Task Scheduler to run completely on Background
+Use wpython.exe rather than python.exe
+https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe
+
+Use NT Authority\System permission rather than own administrator permission
+https://stackoverflow.com/questions/6568736/how-do-i-set-a-windows-scheduled-task-to-run-in-the-background
+
 Thanks for reading!
